@@ -1,1 +1,1 @@
-# tkinter_plot
+# GUI tool using tkinter
